@@ -14,17 +14,13 @@ website: https://github.com/trissmald
 # Dark Mode (true/false/never)
 darkmode: true
 
-# Social links
-linkedin_username: jameswgrant
-
-
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hola, mi nombre es Christopher Maldonado. Soy un apasionado de la programación, realmente me divierto escribiendo líneas de código que después no funcionan, solo bromeo. Mi área de especialidad es análisis de datos, base de datos, todo con datos. Contáctame.
 
-  Mi area de conocimiento: <mark>SQLServer, SQLite, MySQL, Python, PowerBI, Tableu</mark> and <mark>eating pizza</mark>
+  Mi area de conocimiento: <mark>SQLServer, SQLite, MySQL, Python, PowerBI, Tableu</mark> and <mark>comer pizza</mark>
 
 content:
   - title: Projects # Title for the section
@@ -69,8 +65,6 @@ content:
         sub_title: Licenciado en Matemáticas
         description: | # this will include new lines to allow paragraphs
           Durante mi estancia en la universidad aprendí sobre modelos matemáticos, probabilidad avanzada, cálculo, algoritmos, funciones y muchas otras herramientas matemáticas que me ayudan en mi camino de convertirme en Científico de Datos.
-
-
   - title: Un poco sobre mi
     layout: text
     content: | # this will include new lines to allow paragraphs
