@@ -25,10 +25,8 @@ about_content: | # this will include new lines to allow paragraphs
   Dentro de las herramientas de visualización avanzada como <mark>business intelligence</mark> tengo control de <mark>Power BI y Tableau</mark>, de la misma forma que complemento mi conocimiento con herramientas y lenguajes de base de datos como lo son <mark>SQL</mark>, entre ellas he tenido experiencia con <mark>MySQL, SQLite y PL/SQL.</mark>
   
   Esperando que mis habilidades rindan al máximo en el puesto desempeñado y siempre mejorando.
-
 content:
-
-  - title: Educación # Title for the section
+  - title: Educacióoooon # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
