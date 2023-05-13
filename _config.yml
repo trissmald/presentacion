@@ -19,9 +19,11 @@ darkmode: true
 about_title: Acerca de mi
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hola, mi nombre es Christopher Maldonado. Soy un apasionado de la programación, realmente me divierto escribiendo líneas de código que después no funcionan, solo bromeo. Mi área de especialidad es análisis de datos, base de datos, todo con datos. Contáctame.
-
-  Mi area de conocimiento: <mark>SQLServer, SQLite, MySQL, Python, PowerBI, Tableu</mark> and <mark>comer pizza</mark>
+  Hola, mi nombre es Christopher Maldonado. Soy un apasionado de la programación, realmente me divierto escribiendo líneas de código que después no funcionan, solo bromeo. Mi área de especialidad es <mark>análisis de datos</mark>.
+  
+  El lenguaje de programación <mark>python</mark> a la vez que manejo el lenguaje de programación <mark>Python</mark> con librerías como <mark>pandas, numpy, matplotlib</mark> para la gestión de datos. 
+  Dentro de las herramientas de visualización avanzada como <mark>business intelligence</mark> tengo control de <mark>Power BI y Tableau</mark>, de la misma forma que complemento mi conocimiento con herramientas y lenguajes de base de datos como lo son <mark>SQL</mark>, entre ellas he tenido experiencia con <mark>MySQL, SQLite y PL/SQL.</mark>
+  Esperando que mis habilidades rindan al máximo en el puesto desempeñado y siempre mejorando.
 
 content:
 
@@ -34,10 +36,6 @@ content:
         sub_title: Licenciado en Matemáticas
         description: | # this will include new lines to allow paragraphs
           Durante mi estancia en la universidad aprendí sobre modelos matemáticos, probabilidad avanzada, cálculo, algoritmos, funciones y muchas otras herramientas matemáticas que me ayudan en mi camino de convertirme en Científico de Datos.
-  - title: Un poco sobre mi
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Me gusta pasar tiempo en casa con amigos y mi familia.
 
 # Footer
 footer_show_references: true
