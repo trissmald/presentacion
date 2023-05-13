@@ -10,7 +10,6 @@ name: Christopher Edu Maldonado Olguin
 title: Analista de Datos
 email: triss.maldonado@outlook.com
 website: https://github.com/trissmald
-link: pdfs/CVenEspañol.pdf
 
 
 # Dark Mode (true/false/never)
@@ -25,11 +24,11 @@ about_content: | # this will include new lines to allow paragraphs
   Mi area de conocimiento: <mark>SQLServer, SQLite, MySQL, Python, PowerBI, Tableu</mark> and <mark>comer pizza</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: Proyectos # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Proyecto super impresionante
         link: github.com/
         # link_text: Project Website
         additional_links:
