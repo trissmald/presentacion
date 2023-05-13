@@ -37,6 +37,15 @@ content:
         sub_title: Licenciado en Matemáticas
         description: Durante mi estancia en la universidad aprendí sobre modelos matemáticos, probabilidad avanzada, cálculo, algoritmos, funciones y muchas otras herramientas matemáticas que me ayudan en mi camino de convertirme en Científico de Datos.
 
+- title: Proyectos # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Analisis de Futbool en Ligas Europeas 
+        sub_title: Utilizado: Python, numpy, pandas, matplotlib.
+        description: En este proyecto se pone en práctica las nociones más básicas de Python y las librerías de análisis de datos como pandas, numpy y matplotlib.
+        Se analizaron 11 países europeos y 27 ligas de futbol donde se necesitó ocupar métodos de web scraping para obtener la información de las listas de frames que se necesitaban para completar los análisis correspondientes. Añadiendo que fue necesario analizar a conciencia la estructura de sus enlaces, una vez recabados fueron almacenados en algunas listas de frames mas grandes para poder "unificarlos" y de esa manera poder pasar a la etapa de cálculos estadísticos y de visualización. 
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
