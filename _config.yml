@@ -22,7 +22,9 @@ about_content: | # this will include new lines to allow paragraphs
   Hola, mi nombre es Christopher Maldonado. Soy un apasionado de la programación, realmente me divierto escribiendo líneas de código que después no funcionan, solo bromeo. Mi área de especialidad es análisis de datos, base de datos, todo con datos. Contáctame.
 
   Mi area de conocimiento: <mark>SQLServer, SQLite, MySQL, Python, PowerBI, Tableu</mark> and <mark>comer pizza</mark>
-  
+
+content:
+
   - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
     content:
