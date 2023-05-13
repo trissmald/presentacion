@@ -10,7 +10,9 @@ name: Christopher Edu Maldonado Olguin
 title: Analista de Datos
 email: triss.maldonado@outlook.com
 website: https://github.com/trissmald
-CV: pdfs/cvenespañol.pdf
+- title: "Nombre del enlace"
+  url: "pdfs/cvenespañol.pdf"
+
 
 # Dark Mode (true/false/never)
 darkmode: true
