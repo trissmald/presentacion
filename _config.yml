@@ -35,8 +35,7 @@ content:
         title: Universidad Autonoma de Nuevo León
         caption: 2019 - 2023
         sub_title: Licenciado en Matemáticas
-        description: | # this will include new lines to allow paragraphs
-        Durante mi estancia en la universidad aprendí sobre modelos matemáticos, probabilidad avanzada, cálculo, algoritmos, funciones y muchas otras herramientas matemáticas que me ayudan en mi camino de convertirme en Científico de Datos.
+        description: Durante mi estancia en la universidad aprendí sobre modelos matemáticos, probabilidad avanzada, cálculo, algoritmos, funciones y muchas otras herramientas matemáticas que me ayudan en mi camino de convertirme en Científico de Datos.
 
 # Footer
 footer_show_references: true
