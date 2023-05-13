@@ -10,9 +10,9 @@ name: Christopher Edu Maldonado Olguin
 title: Analista de Datos
 email: triss.maldonado@outlook.com
 website: https://github.com/trissmald
-links:
-- title: "CV"
-  url: "pdfs/CVenEspañol.pdf"
+additional_links:
+          - title: CV 
+            url: pdfs/CVenEspañol.pdf
 
 
 # Dark Mode (true/false/never)
