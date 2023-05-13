@@ -32,7 +32,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: UANL - Universidad Autonoma de Nuevo León
+        title: Universidad Autonoma de Nuevo León
         caption: 2019 - 2023
         sub_title: Licenciado en Matemáticas
         description: | # this will include new lines to allow paragraphs
