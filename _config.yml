@@ -25,8 +25,10 @@ about_content: | # this will include new lines to allow paragraphs
   Dentro de las herramientas de visualización avanzada como <mark>business intelligence</mark> tengo control de <mark>Power BI y Tableau</mark>, de la misma forma que complemento mi conocimiento con herramientas y lenguajes de base de datos como lo son <mark>SQL</mark>, entre ellas he tenido experiencia con <mark>MySQL, SQLite y PL/SQL.</mark>
   
   Esperando que mis habilidades rindan al máximo en el puesto desempeñado y siempre mejorando.
+
 content:
-  - title: Educacióoooon # Title for the section
+
+  - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -34,7 +36,7 @@ content:
         caption: 2019 - 2023
         sub_title: Licenciado en Matemáticas
         description: | # this will include new lines to allow paragraphs
-          Durante mi estancia en la universidad aprendí sobre modelos matemáticos, probabilidad avanzada, cálculo, algoritmos, funciones y muchas otras herramientas matemáticas que me ayudan en mi camino de convertirme en Científico de Datos.
+        Durante mi estancia en la universidad aprendí sobre modelos matemáticos, probabilidad avanzada, cálculo, algoritmos, funciones y muchas otras herramientas matemáticas que me ayudan en mi camino de convertirme en Científico de Datos.
 
 # Footer
 footer_show_references: true
