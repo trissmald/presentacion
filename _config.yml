@@ -51,7 +51,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Analisis de Futbool en Ligas Europeas 2010 - 2023
+        title: Analisis de Soccer en Ligas Europeas 2010 - 2023
         sub_title: Utilizado Python, numpy, pandas, matplotlib.
         link: https://github.com/trissmald/EuroSoccer1023
         description: En este proyecto se pone en práctica las nociones más básicas de Python y las librerías de análisis de datos como pandas, numpy y matplotlib. Se analizaron 11 países europeos y 27 ligas de futbol a lo largo de 2010 a 2023 donde se necesitó ocupar métodos de web scraping para obtener la información de las listas de frames que se necesitaban para completar los análisis correspondientes. Añadiendo que fue necesario analizar a conciencia la estructura de sus enlaces, una vez recabados fueron almacenados en algunas listas de frames mas grandes para poder "unificarlos" y de esa manera poder pasar a la etapa de cálculos estadísticos y de visualización. 
