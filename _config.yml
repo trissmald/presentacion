@@ -17,7 +17,6 @@ darkmode: true
 
 # About Section
 about_title: Acerca de mi
-about_profile_image: images/atomprofile.png
 about_content: | # this will include new lines to allow paragraphs
   Soy Analista de Datos con manejo avanzado de <mark>Python, SQL, Power BI, Excel</mark> con experiencia de más de un año. Manejo librerías avanzadas para
   análisis de datos y base de datos en varios softwares. Me entusiasma aprender y mi meta profesional es convertirme en Científico de Datos, estudie
@@ -58,10 +57,10 @@ content:
         description: En este proyecto se pone en práctica las nociones más básicas de Python y las librerías de análisis de datos como pandas, numpy y matplotlib. Se analizaron 11 países europeos y 27 ligas de futbol a lo largo de 2010 a 2023 donde se necesitó ocupar métodos de web scraping para obtener la información de las listas de frames que se necesitaban para completar los análisis correspondientes. Añadiendo que fue necesario analizar a conciencia la estructura de sus enlaces, una vez recabados fueron almacenados en algunas listas de frames mas grandes para poder "unificarlos" y de esa manera poder pasar a la etapa de cálculos estadísticos y de visualización. 
   
   - title: Mi CV
-      layout: text
-      content:
-        Este es mi CV 
-        ![CV](images/CVenEspañol.jpg "CV")
+    layout: text
+    content: 
+      Este es mi CV
+      [CV](images/CVenEspañol.jpg "CV")
        
 
 
