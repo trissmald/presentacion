@@ -59,8 +59,9 @@ content:
   - title: Mi CV
     layout: text
     content:
-      - CV: /images/CVenEspañol.jpg
-      
+      - layout: left
+        title: CV
+        description: <img src="/images/CVenEspañol.jpg" alt="CV" width="500px">
 
 # Footer
 footer_show_references: true
