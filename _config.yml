@@ -59,7 +59,7 @@ content:
   - title: Increible Arte
     layout: text
     content: | # this will include new lines to allow paragraphs 
-      ![CV](/presentacion/images/landscape.jpg "CV")
+      ![imagen](/presentacion/images/landscape.JPG "Village Japanese")
 
 # Footer
 footer_show_references: true
