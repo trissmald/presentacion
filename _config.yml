@@ -61,7 +61,7 @@ content:
     content: | # this will include new lines to allow paragraphs
     
       Look at this cool image  
-      ![CV](/images/cv.jpg "CV")
+      ![CV](/presentacion/images/cv.jpg "CV")
 
 # Footer
 footer_show_references: true
