@@ -17,7 +17,7 @@ darkmode: true
 
 # About Section
 about_title: Acerca de mi
-about_profile_image: images/profile.jpg
+about_profile_image: images/catprofile.png
 about_content: | # this will include new lines to allow paragraphs
   Soy Analista de Datos con manejo avanzado de <mark>Python, SQL, Power BI, Excel</mark> con experiencia de más de un año. Manejo librerías avanzadas para
   análisis de datos y base de datos en varios softwares. Me entusiasma aprender y mi meta profesional es convertirme en Científico de Datos, estudie
