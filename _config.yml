@@ -58,10 +58,9 @@ content:
   
   - title: Mi CV
     layout: text
-    content: 
-      [CV](/images/CVenEspañol.jpg "CV")
-       
-
+    content:
+      - CV: /images/CVenEspañol.jpg
+      
 
 # Footer
 footer_show_references: true
