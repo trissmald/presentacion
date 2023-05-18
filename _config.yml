@@ -59,8 +59,7 @@ content:
   - title: Mi CV
     layout: text
     content: 
-      Este es mi CV
-      [CV](images/CVenEspañol.jpg "CV")
+      [CV](/images/CVenEspañol.jpg "CV")
        
 
 
