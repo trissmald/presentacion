@@ -33,7 +33,7 @@ content:
       - layout: left
         title: Base de Datos en EMSA Multiservicios 
         sub_title: Admistración de base de datos con Microsoft Excel (Agosto 2020 - Febrero 2022)
-        description: 
+        description: |
           Gestioné y administré la base de datos utilizando Microsoft Excel, garantizando la integridad, precisión y actualización de la información.
           
           Desarrollé y mantuve sistemas de seguimiento y control de inventario utilizando fórmulas y funciones avanzadas de Excel, lo que permitió una gestión eficiente del stock y una reducción de pérdidas y roturas.
@@ -47,7 +47,7 @@ content:
         title: Analisis de Soccer en Ligas Europeas 2010/2023
         sub_title: Utilizado Python, numpy, pandas, matplotlib.
         link: https://github.com/trissmald/EuroSoccer1023
-        description: 
+        description: |
           En este proyecto se pone en práctica las nociones más básicas de Python y las librerías de análisis de datos como pandas, numpy y matplotlib. Se analizaron 11 países europeos y 27 ligas de futbol a lo largo de 2010 a 2023 donde se necesitó ocupar métodos de web scraping para obtener la información de las listas de frames que se necesitaban para completar los análisis correspondientes.
           
           Añadiendo que fue necesario analizar a conciencia la estructura de sus enlaces, una vez recabados fueron almacenados en algunas listas de frames mas grandes para poder "unificarlos" y de esa manera poder pasar a la etapa de cálculos estadísticos y de visualización. 
@@ -59,7 +59,7 @@ content:
         title: Universidad Autonoma de Nuevo León
         caption: 2020 - 2024
         sub_title: Licenciado en Matemáticas
-        description: 
+        description: |
           Durante mi estancia en la universidad aprendí sobre modelos matemáticos, probabilidad avanzada, cálculo, algoritmos, funciones y muchas otras herramientas matemáticas que me ayudan en mi camino de convertirme en Científico de Datos.
   
   - title: Increible Arte
