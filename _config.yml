@@ -54,7 +54,7 @@ content:
   - title: Power BI
     layout: text
     content: | # this will include new lines to allow paragraphs 
-      <iframe title="Report Section" width="1024" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiMmIyYzk3MzctYmQxZS00NjQ0LWFhMGQtOWI5MTRlY2UzOGMxIiwidCI6ImNhY2E5MDExLTdiNmEtNDRkZS04NjFmLTA5NWEyY2E4ODNiNyIsImMiOjR9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+      <iframe title="Reporte (test_prueba) - Atentos Abril 2023" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMmIyYzk3MzctYmQxZS00NjQ0LWFhMGQtOWI5MTRlY2UzOGMxIiwidCI6ImNhY2E5MDExLTdiNmEtNDRkZS04NjFmLTA5NWEyY2E4ODNiNyIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
   
   - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
