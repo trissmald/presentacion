@@ -52,9 +52,9 @@ content:
           Añadiendo que fue necesario analizar a conciencia la estructura de sus enlaces, una vez recabados fueron almacenados en algunas listas de frames mas grandes para poder "unificarlos" y de esa manera poder pasar a la etapa de cálculos estadísticos y de visualización. 
 
   - title: Power BI # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
-      - layout: center top
+      - layout: 
         title: Atentos Call Center
         sub_title: Analisis de KPIS para Call Center
         link: https://acortar.link/4nS0wd
