@@ -54,7 +54,7 @@ content:
   - title: Power BI # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-center
+      - layout: top
         title: Atentos Call Center Report
         sub_title: KPIS
         link: https://acortar.link/4nS0wd
