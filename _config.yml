@@ -53,15 +53,12 @@ content:
 
   - title: Power BI # Title for the section
     layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Atentos Call Center Report
-        sub_title: KPIS
-        link: https://acortar.link/4nS0wd
-        description: |
-          <div align="center">
-          <iframe title="Reporte (test_prueba) - Atentos Abril 2023" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiMmIyYzk3MzctYmQxZS00NjQ0LWFhMGQtOWI5MTRlY2UzOGMxIiwidCI6ImNhY2E5MDExLTdiNmEtNDRkZS04NjFmLTA5NWEyY2E4ODNiNyIsImMiOjR9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
-          <div align="center">
+    content: |
+      <div align="center">
+      ## Atentos Call Center Report
+      [Ver Reporte](https://acortar.link/4nS0wd)
+      <iframe title="Reporte (test_prueba) - Atentos Abril 2023" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiMmIyYzk3MzctYmQxZS00NjQ0LWFhMGQtOWI5MTRlY2UzOGMxIiwidCI6ImNhY2E5MDExLTdiNmEtNDRkZS04NjFmLTA5NWEyY2E4ODNiNyIsImMiOjR9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+      </div>         
   
   - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
