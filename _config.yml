@@ -51,19 +51,19 @@ content:
           
           Añadiendo que fue necesario analizar a conciencia la estructura de sus enlaces, una vez recabados fueron almacenados en algunas listas de frames mas grandes para poder "unificarlos" y de esa manera poder pasar a la etapa de cálculos estadísticos y de visualización. 
 
-  - title: Power BI - Reporte Call Center (Atentos) # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top
-        title: Reporte Call Center (Atentos)
-        sub_title: Analisis de KPIs orientados a Call Center
-        link: https://acortar.link/4nS0wd
-        description: | # this will include new lines to allow paragraphs
-          En este reporte se verificaron varios KPIs para un Call Center en el que fue necesario modelar la información, crear promedios, estadisticas de comparación y anexar información importante que determine la eficiencia del equipo con el fin de entregar un reporte solido al cliente sobre el desempeño general.
-          
-          <div align="center">
-          <iframe title="Reporte (test_prueba) - Atentos Abril 2023" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiMmIyYzk3MzctYmQxZS00NjQ0LWFhMGQtOWI5MTRlY2UzOGMxIiwidCI6ImNhY2E5MDExLTdiNmEtNDRkZS04NjFmLTA5NWEyY2E4ODNiNyIsImMiOjR9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
-          </div>         
+  # - title: Power BI - Reporte Call Center (Atentos) # Title for the section
+  #  layout: list # Type of content section (list/text)
+  #  content:
+  #    - layout: top
+  #      title: Reporte Call Center (Atentos)
+  #      sub_title: Analisis de KPIs orientados a Call Center
+  #      link: https://acortar.link/4nS0wd
+  #     description: | # this will include new lines to allow paragraphs
+  #       En este reporte se verificaron varios KPIs para un Call Center en el que fue necesario modelar la información, crear promedios, estadisticas de comparación y anexar información importante que determine la eficiencia del equipo con el fin de entregar un reporte solido al cliente sobre el desempeño general.
+  #       
+  #       <div align="center">
+  #      <iframe title="Reporte (test_prueba) - Atentos Abril 2023" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiMmIyYzk3MzctYmQxZS00NjQ0LWFhMGQtOWI5MTRlY2UzOGMxIiwidCI6ImNhY2E5MDExLTdiNmEtNDRkZS04NjFmLTA5NWEyY2E4ODNiNyIsImMiOjR9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+  #       </div>         
   
   - title: Power BI - Reporte Ventas # Title for the section
     layout: list # Type of content section (list/text)
